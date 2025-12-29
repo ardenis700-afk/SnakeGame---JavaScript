@@ -60,7 +60,8 @@ This is a simple and fun Snake game built using HTML, CSS, and JavaScript. It fe
            </div>
        </div>
    
-       <!-- Difficulty Selection Modal -->
+       <!-- Difficulty Selec
+tion Modal -->
        <div class="difficulty-modal" id="difficultyModal">
            <div class="difficulty-content">
                <h2>Select Difficulty</h2>
